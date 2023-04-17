@@ -1,5 +1,5 @@
 
-package ejercicios.estructuras.de.control;
+package EjGuia3;
 
 import java.util.Scanner;
 
